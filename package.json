@@ -1,0 +1,22 @@
+{
+  "name": "bulletin-board",
+  "version": "0.0.1",
+  "description": "A bulletin board developed in React.",
+  "main": "Note.js",
+  "scripts": {
+    "start": "open http://localhost:4521 & httpster -p 4321"
+  },
+  "repository": {
+    "type": "git",
+    "url": "araphel.github.io"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Bartekus",
+  "license": "MIT",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}
