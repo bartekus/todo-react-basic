@@ -5,7 +5,7 @@ Basic (**React.js**) (sticky-notes style) To Do App
 
 #### Screenshot
 
-![Screenshot software](https://raw.githubusercontent.com/Bartekus/todo-js-basic/master/todo-react-basic.png "screenshot software")
+![Screenshot software](https://raw.githubusercontent.com/Bartekus/todo-react-basic/master/todo-react-basic.png "screenshot software")
 
 ## Synopsis
 
